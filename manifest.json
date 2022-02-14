@@ -1,0 +1,17 @@
+{
+    "name": "Calculadora de Mecanismos",
+    "short_name": "Mecanismos",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "../",
+    "start_url": "https://jasosistemas.github.io/CalculadoraMecanismos/",
+    "icons": [
+        {
+            "src": "logo_jaso.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
